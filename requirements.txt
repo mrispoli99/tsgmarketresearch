@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+requests
+beautifulsoup4
+pypdf
+python-docx
+python-pptx
+pandas
+openpyxl
